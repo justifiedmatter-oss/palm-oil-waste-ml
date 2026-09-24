@@ -4,7 +4,7 @@
 
 This project investigates the use of machine learning to predict quantities of major palm oil waste streams in Nigeria.
 
-The study compares three machine learning models — Random Forest, XGBoost, and Long Short-Term Memory (LSTM) — and combines their predictions using an Elastic Net stacking ensemble.
+The study compares three machine learning models; Random Forest, XGBoost, and Long Short-Term Memory (LSTM) and combines their predictions using an Elastic Net stacking ensemble.
 
 The project also incorporates time-series validation and conformal prediction to evaluate predictive uncertainty.
 
